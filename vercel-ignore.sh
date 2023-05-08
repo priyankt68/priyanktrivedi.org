@@ -15,3 +15,4 @@ if [[ "$VERCEL_GIT_COMMIT_REF" == "gh-pages"  ]] ; then
 fi
 
 echo "Done running vercel-ignore.sh"
+    
