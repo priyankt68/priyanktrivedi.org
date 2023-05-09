@@ -1,12 +1,19 @@
 head:
   title: "Priyank Trivedi | Engineering Lead, backend & internet of things developer "
-  description: "Personal site for Priyank Trivedi, Software Engineer. With a background as computer engineer and experience both as a web and mobile developer and team lead, in multi-cultural environments in Spain, the Netherlands and Denmark. You can find contact information, as well as availability for work, up-to-date curriculum and previous experience."
+  description: "Personal site for Priyank Trivedi, Software Engineer. With a background as computer engineer and experience both as a backend and IoT developer and team lead across high growth startups. You can find contact information, as well as availability for work, up-to-date curriculum and previous experience."
 # showcase
 showcase:
   enable: true
   title: "Hey, I’m Priyank"
-  subtitle: "Software Engineer"
-  description: "I work at <a target='_blank' href='https://www.sumup.com/'>SumUp</a>, a digital payments company focused in small businesses. My background is diverse (you could say I'm a specialized generalist), but always close to digital technology.<br>I have done a bit of everything, from backend development to mobile apps, devops or team leading and coaching. I love automation as a way to optimize processes and avoid repetitive work, and working in happy agile teams - where work is a way to solve problems, and not a mean by itself."
+  # subtitle: "Software Engineer"
+  description: "I am a software engineer with expertise in building robust and scalable backend systems. Previously, I have built systems for high growth startups like Unacademy, BookMyShow and Zenatix. I can help with:    <ul>    <strong><li>Code</li></strong> - I've built and scaled monolith as well as microservices built in Python and Golang.
+    <strong><li>Database</li></strong> - I have worked with majority of the databases - MySQL, PostgreSQL and specialised databases like InfluxDB and TimescaleDB. 
+    <strong><li>E-commerce </li></strong> - An e-commerce website with custom app development on Shopify.  
+    <strong><li>MVP </li></strong> - Connect if you are looking to build an MVP for your next idea!.  
+    </ul>
+
+    " 
+  
   image:
     alt: "Profile picture of Priyank Trivedi (@priyankt68), smiling over a petroleum color background"
     x: "images/priyank4xx.jpg"
@@ -65,7 +72,8 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
+  description: "Over 9 years of experience working in all kind of project sizes and teams. 
+  I have architected & built products from scratch in the field of Internet of Things and Ed-Tech."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -74,10 +82,10 @@ experience:
     icon: "icon-profile-fill"
     btnText: "Download résumé"
     URL: "/files/cv_priyank_trivedi.pdf"
-  button3: 
-    icon: "icon-arrow-right"
-    btnText: "All experience"
-    URL: "/experience"
+  # button3: 
+  #   icon: "icon-arrow-right"
+  #   btnText: "All experience"
+  #   URL: "/experience"
 # Client & Work
 client_and_work:
   title: "Clients & Works"

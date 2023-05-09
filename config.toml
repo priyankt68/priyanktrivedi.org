@@ -75,7 +75,7 @@ theme = "adritian"
 
 [params]
 
-  sections = ["showcase", "about", "experience", "education", "contact"]
+  sections = ["showcase", "experience", "education", "contact"]
   googleTagManagerID = "GTM-NVN2BJG" # Google Analytics works with Google Tag Manager
 
   [params.logo]
