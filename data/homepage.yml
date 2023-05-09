@@ -187,20 +187,17 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "https://formspree.io/info@adrianmoreno.info"
+    action: "https://formspree.io/f/mgebdjqv"
     method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+45 31 57 98 27"
   email:
     title: "Email"
-    email: '<a href="mailto:info@adrianmoreno.info">info@adrianmoreno.info</a>'
+    email: '<a href="mailto:priyankt68@gmail.com">priyankt68@gmail.com</a>'
   address:
     title: "Location"
-    address: "Copenhagen (DK)"
+    address: "Bangalore (IN)"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
