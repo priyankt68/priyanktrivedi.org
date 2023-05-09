@@ -1,11 +1,11 @@
 ---
-date: 2015-11-01T00:00:00+01:00
+date: 2013-11-01T00:00:00+01:00
 draft: false
-title: "CTO - Pocket Media"
-jobTitle: "CTO"
-company: "Pocket Media"
-location: "Amsterdam, The Netherlands"
-duration: "2015-2017"
+title: "Undergraduate Researcher"
+jobTitle: "Undergraduate Researcher"
+company: "Risk Analytics Lab, Dalhouse University"
+location: "Halifax, Canada"
+duration: "2013-2014"
 ---
 ### First time leading a multi-cultural team
 

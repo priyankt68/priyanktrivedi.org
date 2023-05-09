@@ -1,11 +1,11 @@
 ---
-date: 2011-03-01T00:00:00+01:00
+date: 2022-07-01T00:00:00+01:00
 draft: false
-title: "Programmer Analyst - Coremain"
-jobTitle: "Programmer Analyst"
-company: "Coremain"
-location: "Santiago de Compostela, Spain"
-duration: "2011"
+title: "Engineering Lead"
+jobTitle: "Engineering Lead"
+company: "Unacademy"
+location: "Bangalore, India"
+duration: "2021-2023"
 ---
 ### Contact with enterprise private project
 

@@ -1,11 +1,11 @@
 ---
-date: 2007-12-01T00:00:00+01:00
+date: 2015-12-01T00:00:00+01:00
 draft: false
-title: "Programmer Analyst - Bahia Software"
-jobTitle: "Programmer Analyst"
-company: "Bahia Software"
-location: "Santiago de Compostela, Spain"
-duration: "2007-2011"
+title: "Software Engineer → Tech Lead"
+jobTitle: "Tech Lead - IoT Gateway and Device Management"
+company: "Zenatix Solutions"
+location: "Gurgaon, India"
+duration: "2014-2020"
 
 ---
 ### First job as software engineer
